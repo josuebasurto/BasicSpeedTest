@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple web page that downloads and calculates speed over a file of ~5Mb. You can adapt it to use it in your website, download your own file, etc.
+Simple web page that downloads and calculates speed over a file of ~5Mb. You can adapt it to use it in your website, download your own file, etc. Test: https://josuebasurto.github.io/BasicSpeedTest/
 
 ## Screenshot
 
