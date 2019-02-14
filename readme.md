@@ -4,6 +4,10 @@
 
 Simple web page that downloads and calculates speed over a file of ~5Mb. You can adapt it to use it in your website, download your own file, etc.
 
+## Screenshot
+
+![Screenshot Speed Test @josuebasurto](screenshot.png?raw=true "Screenshot Speed Test @josuebasurto")
+
 ## Run it 
 
 1) **Clone** it
@@ -16,7 +20,7 @@ Simple web page that downloads and calculates speed over a file of ~5Mb. You can
 
 3) Enter in your browser
 
-        localhost:8000
+        http://localhost:8000/index.html
 
 4) Click in **Start**
 
