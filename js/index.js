@@ -2,7 +2,9 @@
   Para poder poner este script en tu server tienes que poner tambien un archivo en tu server y saber de que tamaño es para poner la informacion en imageAddr y downloadSize.
 */
 
-var imageAddr = "http://wallpaperswide.com/download/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
+// var imageAddr = "http://wallpaperswide.com/download/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
+
+var imageAddr = "https://github.com/josuebasurto/BasicSpeedTest/raw/master/images/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
 var startTime, endTime;
 var downloadSize = 5616998; //5.36Mb
 var download = new Image();
