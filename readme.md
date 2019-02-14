@@ -6,13 +6,17 @@ Simple web page that downloads and calculates speed over a file of ~5Mb. You can
 
 ## Screenshot
 
-![Screenshot Speed Test @josuebasurto](images/screenshot.png?raw=true "Screenshot Speed Test @josuebasurto")
+![Screenshot Speed Test @josuebasurto](docs/images/screenshot.png?raw=true "Screenshot Speed Test @josuebasurto")
 
 ## Run it 
 
 1) **Clone** it
 
         git clone 
+
+2) **Get into** docs folder
+
+        cd docs
 
 2) Use **SimpleHTTPServer** with
 
