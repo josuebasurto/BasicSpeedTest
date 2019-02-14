@@ -4,7 +4,7 @@
 
 // var imageAddr = "http://wallpaperswide.com/download/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
 
-var imageAddr = "images/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
+var imageAddr = "//josuebasurto.github.io/BasicSpeedTest/images/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
 var startTime, endTime;
 var downloadSize = 5616998; //5.36Mb
 var download = new Image();
